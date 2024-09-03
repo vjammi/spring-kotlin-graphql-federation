@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vjammi.graphql.controller.ReviewsControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-03T05:55:26" hostname="THINKPADX1" time="0.407">
+  <properties/>
+  <testcase name="whenBookIsAvailable_thenLendMethodIsCalled()" classname="com.vjammi.graphql.controller.ReviewsControllerTest" time="0.407"/>
+  <system-out><![CDATA[BookStub(id=1234)]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

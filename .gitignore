@@ -1,0 +1,5 @@
+/.idea/
+/.gradle/
+/graphql-mesh/node_modules/
+/graphql-mesh/.mesh/
+/graphql-mesh/package-lock.json
